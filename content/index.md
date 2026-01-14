@@ -10,7 +10,7 @@ I enjoy contributing to [open source projects](#projects), cooking and boulderin
 This website contains all the stuff that I think might be useful to others and that I am allowed to release.
 Take a look around and let me know if you could use my stuff for anything cool! :)
 
-## [Academia →](/academia)
+## [Academia →](/tags/academia)
 - **Aug 2022:** The ProvideQ Toolbox makes it easy to integrate quantum computing advantages into classical software
 - **Apr 2022:** "Fork() and Alternatives" discusses the design and performance of the Linux `fork()` system call
 - **Mar 2022:** "ROSE" is a graphical road system editor used to set up highway networks that can be exported to traffic simulation software
