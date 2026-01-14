@@ -4,10 +4,12 @@ title: Hello there!
 
 <!-- TODO: add profile picture -->
 
-I'm Max, a computer science student at the [Karlsruhe Institute of Technology](https://kit.edu).
-I enjoy contributing to [open source projects](#projects), cooking and bouldering.
-
-This website contains all the stuff that I think might be useful to others and that I am allowed to release.
+I'm Max, a computer science graduate and [quantum computing](/tags/quantum) nerd.
+I've recently graduated from the [University of Oxford](https://ox.ac.uk) and I
+will soon begin working as a research assistant in quantum computing and
+computer science at [KIT](https://kit.edu).
+This website is home to many of the things I am working on, just to put them out
+there in case they may be useful to someone else at some point.
 Take a look around and let me know if you could use my stuff for anything cool! :)
 
 ## [Academia →](/tags/academia)
