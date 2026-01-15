@@ -33,8 +33,8 @@ We have published several papers on the toolbox.
 As an introductory read, I can recommend our most recent paper which gives a
 good overview over the motivation, theory and implementation of the toolbox. 
 * [ProvideQ: A Quantum Optimization Toolbox](/publications/provideq-a-quantum-optimization-toolbox) (2025)
-* [Hybrid Meta-Solving for Practical Quantum Computing](https://arxiv.org/abs/2405.09115) (2024)
-* [Providing Quantum Readiness: The Vision of the ProvideQ Toolbox](https://dl.gi.de/items/8ec811f2-3978-4170-93fb-5e84458bb707) (2023)
+* [Hybrid Meta-Solving for Practical Quantum Computing](/publications/hybrid-meta-solving-for-practical-quantum-computing) (2024)
+* [Providing Quantum Readiness: The Vision of the ProvideQ Toolbox](/publications/providing-quantum-readiness-the-vision-of-the-provideq-toolbox.md) (2023)
 
 # Further links
 - ⌨️ [Check out the toolbox source code on GitHub](https://github.com/ProvideQ)
