@@ -8,6 +8,10 @@ tags:
 - quantum
 ---
 
+<p align="center">
+  <img src="./provideq-avatar.png" width="128px"/>
+</p>
+
 With quantum algorithms, we can solve problems like prime factorization faster
 than with any known classical (non-quantum) algorithm.
 However, quantum computers are just becoming available to the public - and
@@ -24,6 +28,15 @@ Problems instances submitted to the ProvideQ toolbox will be solved either with
 a classical or a quantum problem solver, depending the problem and what
 available quantum computers are capable of.
 
+# Publications
+We have published several papers on the toolbox.
+As an introductory read, I can recommend our most recent paper which gives a
+good overview over the motivation, theory and implementation of the toolbox. 
+* [ProvideQ: A Quantum Optimization Toolbox](/publications/provideq-a-quantum-optimization-toolbox) (2025)
+* [Hybrid Meta-Solving for Practical Quantum Computing](https://arxiv.org/abs/2405.09115) (2024)
+* [Providing Quantum Readiness: The Vision of the ProvideQ Toolbox](https://dl.gi.de/items/8ec811f2-3978-4170-93fb-5e84458bb707) (2023)
+
+# Further links
 - ⌨️ [Check out the toolbox source code on GitHub](https://github.com/ProvideQ)
 - 📢 [Read the program profile from the funding Ministry](https://www.digitale-technologien.de/DT/Redaktion/EN/Standardartikel/Quanten-Computing/qc_projekt_provideq.html)
 - ℹ️ [Learn more on the informational website about the project](https://www.provideq.org/)
