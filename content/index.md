@@ -12,12 +12,19 @@ This website is home to many of the things I am working on, just to put them out
 there in case they may be useful to someone else at some point.
 Take a look around and let me know if you could use my stuff for anything cool! :)
 
+# What's new?
+
 ## [Academia →](/tags/academia)
-- **Aug 2022:** The ProvideQ Toolbox makes it easy to integrate quantum computing advantages into classical software
-- **Apr 2022:** "Fork() and Alternatives" discusses the design and performance of the Linux `fork()` system call
-- **Mar 2022:** "ROSE" is a graphical road system editor used to set up highway networks that can be exported to traffic simulation software
+- **Nov 2025:** I graduated from Oxford! 🎓️
+- **Sep 2025:** I submitted my master's thesis on "Preserving MWPM Decodability in Fault-Equivalent Rewrites"
+- **Mar 2025:** My team won the Pasqal quantum challenge with a project on power grids 🏆️
 
 ## [Personal projects →](/projects)
-- **Jun 2022:** This website is built with Nuxt 3 and Nuxt Content
-- **Jan 2022:** "Arminius" is a small game inspired by the battle of the Teutoburg forest, built for the Historically Accurate Game Jam 5
-- **Sep 2021:** I implemented an online-multiplayer version of Tic Tac Toe on top of the Cloudflare Workers platform
+- **Jan 2025:** [This website](/projects/this-website.md) got a major content
+  update and was rebuilt with Quartz
+- **Jan 2022:** ["Arminius"](/projects/arminius.md) is a small game inspired by
+  the battle of the Teutoburg forest, built for the Historically Accurate Game
+  Jam 5
+- **Sep 2021:** I implemented an online-multiplayer version of
+  [Tic Tac Toe on top of the Cloudflare Workers](/projects/tictactoe-workers.md)
+  platform
