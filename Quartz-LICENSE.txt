@@ -1,3 +1,6 @@
+License for the Quartz software excluding the website content in the content
+directory:
+
 MIT License
 
 Copyright (c) 2021 jackyzha0

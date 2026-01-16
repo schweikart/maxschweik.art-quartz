@@ -8,7 +8,7 @@ For issues regarding one of my projects on GitHub, please use the respective
 issue tracker.
 
 - Max Schweikart
-- [hello@maxschweik.art](mailto:hello+imprint@maxschweik.art)
+- [website@maxschweik.art](mailto:website@maxschweik.art)
 - Kapellenstraße 50
 - 76131 Karlsruhe
 - Germany
