@@ -16,8 +16,10 @@ Take a look around and let me know if you could use my stuff for anything cool! 
 
 ## [Academia →](/tags/academia)
 - **Nov 2025:** I graduated from Oxford! 🎓️
-- **Sep 2025:** I submitted my master's thesis on "Preserving MWPM Decodability in Fault-Equivalent Rewrites"
-- **Mar 2025:** My team won the Pasqal quantum challenge with a project on power grids 🏆️
+- **Sep 2025:** I submitted my master's thesis on
+  ["Preserving MWPM Decodability in Fault-Equivalent Rewrites"](./projects/efficient-decodability-preservation.md)
+- **Mar 2025:** My team won the Pasqal quantum challenge with a project on
+  power grids 🏆️
 
 ## [Personal projects →](/projects)
 - **Jan 2025:** [This website](/projects/this-website.md) got a major content
