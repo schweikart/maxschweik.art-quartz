@@ -34,7 +34,8 @@ Combining this novel notion with
 [fault-equivalent rewrites](https://arxiv.org/abs/2506.17181) allows us to
 define *matchability-preserving rewrites* which guarantee to keep MWPM
 Decodability intact throughout quantum compilation.
-<!-- TODO: mention MP rewrite arsenal -->
+And indeed, we found a system of such rewrites that we can use to build
+implementations for arbitrary surface code measurements.
 
 * 📜 [Read the thesis](./masters-thesis.pdf)
 
