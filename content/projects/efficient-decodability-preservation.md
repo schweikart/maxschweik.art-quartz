@@ -6,6 +6,13 @@ tags:
 - quantum
 ---
 
+<p align="center">
+  <img src="./efficient-decodability-preservation-r4.png" width="50%"/>
+  <br/>
+  <i><b>Fig. 1:</b> A matchability-preserving decomposition of a four-legged
+  spider.</i>
+</p>
+
 For my master's dissertation project in Oxford, I worked with
 [Prof. Aleks Kissinger](https://www.cs.ox.ac.uk/people/aleks.kissinger/), his
 PhD student [Benjamin Rodatz](https://www.cs.ox.ac.uk/people/benjamin.rodatz/)
