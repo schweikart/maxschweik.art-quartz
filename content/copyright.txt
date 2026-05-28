@@ -1,0 +1,6 @@
+(c) Max Schweikart, 2025
+
+Unlike the Quatz software, the content within this directory is not available
+under an open source license.
+If you have any question about licensing, please get in touch at
+<website@maxschweik.art>.
