@@ -5,9 +5,9 @@ title: Hello there!
 <!-- TODO: add profile picture -->
 
 I'm Max, a computer science graduate and [quantum computing](/tags/quantum) nerd.
-I've recently graduated from the [University of Oxford](https://ox.ac.uk) and I
-will soon begin working as a research assistant in quantum computing and
-computer science at [KIT](https://kit.edu).
+I've recently graduated from the [University of Oxford](https://ox.ac.uk) and
+I'm now working as a research assistant in quantum computing and computer
+science at the [Karlsruhe Institute of Technology](https://kit.edu).
 This website is home to many of the things I am working on, just to put them out
 there in case they may be useful to someone else at some point.
 Take a look around and let me know if you could use my stuff for anything cool! :)
@@ -15,6 +15,11 @@ Take a look around and let me know if you could use my stuff for anything cool! 
 # What's new?
 
 ## [Academia →](/tags/academia)
+- **Mar & May 2026:** My master's project on
+  [matchability preservation](./projects/efficient-decodability-preservation.md)
+  is now available as a much more compact arXiv paper and I gave a talk about it
+  at the ZX Seminar.
+  [Check it out!](./publications/preserving-mwpm-decodability-in-fault-equivalent-rewrites.md)
 - **Nov 2025:** I graduated from Oxford! 🎓️
 - **Sep 2025:** I submitted my master's thesis on
   ["Preserving MWPM Decodability in Fault-Equivalent Rewrites"](./projects/efficient-decodability-preservation.md)

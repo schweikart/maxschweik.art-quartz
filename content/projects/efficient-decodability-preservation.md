@@ -39,6 +39,12 @@ implementations for arbitrary surface code measurements.
 
 * 📜 [Read the thesis](./masters-thesis.pdf)
 
+> [!tip] New: Paper and presentation recording
+>
+> We compressed my thesis into an arXiv paper and I gave a talk about it at the
+> ZX Seminar.
+> [Check it out!](../publications/preserving-mwpm-decodability-in-fault-equivalent-rewrites.md)
+
 # Full Dissertation Abstract
 > For the successful application of quantum computers, the suppression of noise
 > has often been dubbed as the most critical problem.
